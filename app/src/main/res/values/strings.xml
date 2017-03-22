@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Todd\'s Syndrome</string>
+
+
+    <!-- Patient test Labels !-->
+    <string name="age_of_patient">Age of the patient</string>
+    <string name="gender_of_patient">Gender of the patient</string>
+    <string name="migraine_history">Does the patient have migraine? </string>
+    <string name="use_of_drug">Does the patient take hallucinogenic drugs? </string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="test_result">Result: </string>
+    <string name="tests_title">Tests</string>
+    <string name="name_of_patient">Name of the patient</string>
+
+    <string name="yes_label">Yes</string>
+    <string name="no_label">No</string>
+    <string name="male_label">Male</string>
+    <string name="female_label">Female</string>
+    <string name="done_label">Done</string>
+</resources>
